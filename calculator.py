@@ -14,7 +14,7 @@ def divide(x, y):
     return x / y
 
 def calculator():
-    print("Simple Calculator")
+    print("Simple Calculator updated from main")
     print("Select operation:")
     print("1. Add")
     print("2. Subtract")
